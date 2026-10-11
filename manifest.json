@@ -4,8 +4,8 @@
   "description": "Музыкальный плеер с каталогом Audius",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#15121c",
-  "theme_color": "#15121c",
+  "background_color": "#21182f",
+  "theme_color": "#21182f",
   "lang": "ru",
   "icons": [
     {
