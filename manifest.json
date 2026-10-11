@@ -1,7 +1,7 @@
 {
   "name": "Волна — музыка для тебя",
   "short_name": "Волна",
-  "description": "Музыкальный плеер с поиском легально доступной музыки",
+  "description": "Музыкальный плеер с каталогом Audius",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#101014",
