@@ -1,12 +1,19 @@
 {
-  "name": "Волна — музыка для тебя",
+  "name": "Волна — Бета 13",
   "short_name": "Волна",
-  "description": "Музыкальный плеер с подборками по настроению",
+  "description": "Музыкальный плеер с подборками по настроению — бета 13",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
   "lang": "ru",
-  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
